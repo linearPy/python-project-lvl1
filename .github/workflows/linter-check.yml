@@ -5,10 +5,11 @@ on: push
 jobs:
   build:
     runs-on: ubuntu-latest
-	steps:
-	  - name: Install dependencies
-	    run: |
-		  pip install poetry
-		  make install
-	  - name: Run linter
-	  	  make lint
+    steps:
+      - name: Install dependencies
+        run: |
+          pip install poetry
+          make install
+      - name: Run linter
+        run: |
+          make lint
