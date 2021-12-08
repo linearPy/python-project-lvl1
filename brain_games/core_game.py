@@ -1,7 +1,7 @@
 import prompt
 
 
-MAX_ITER_TO_WIN = 3
+ITER_TO_WIN = 3
 
 
 def core(game_rules, game_option):
@@ -12,7 +12,7 @@ def core(game_rules, game_option):
 
     print(game_rules)
 
-    for _ in range(MAX_ITER_TO_WIN):
+    for _ in range(ITER_TO_WIN):
         quest, correct_ans = game_option()
 
         print(f'Question: {quest}')
