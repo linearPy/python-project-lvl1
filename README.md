@@ -5,4 +5,8 @@
 
 [![Actions Status](https://github.com/linearPy/python-project-lvl1/workflows/linter-check/badge.svg)](https://github.com/linearPy/python-project-lvl1/actions)
 
-[![asciicast](https://asciinema.org/a/d7rcgJbe6ZwJzDBsBvhld7VAg.svg)](https://asciinema.org/a/d7rcgJbe6ZwJzDBsBvhld7VAg)
+### brain-even
+[![asciicast](https://asciinema.org/a/454563.svg)](https://asciinema.org/a/454563)
+
+### brain-calc
+[![asciicast](https://asciinema.org/a/454860.svg)](https://asciinema.org/a/454860)
